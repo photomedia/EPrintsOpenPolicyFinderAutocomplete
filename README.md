@@ -1,6 +1,6 @@
 # EPrintsOpenPolicyFinderAutocomplete
 
-extract journal info and IR publisher policies from Sherpa Romeo
+extract journal info and IR publisher policies from JISC Open Policy Finder 
 
 
 ## Compatibility
