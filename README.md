@@ -9,6 +9,10 @@ Compatible with Open Policy Finder API (post July 2026 api change)
 
 https://openpolicyfinder.jisc.ac.uk/help/developers/how-to-access-the-api-platform
 
+## API key and Repository Name
+
+Before running the script, update the configuration section with your local repository name and Open Policy Finder API key. Set $repositoryName to the name that should appear in the generated autocomplete text. Also replace the placeholder $api_key = 'ENTER YOUR KEY HERE'; with a valid Open Policy Finder API key. The script sends this key in the x-api-key request header when calling the post-July 2026 Open Policy Finder API platform, so the API key must be present and active before either quick mode or a full run will work.
+
 ## Usage
 
 ### Quick Mode
